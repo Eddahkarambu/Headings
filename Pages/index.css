@@ -1,4 +1,23 @@
-.h1{
-    color:hsl(349°, 69%, 43%);
+.head1{
+   color:hsl(0, 100%, 32%);
 
+}
+.head2{
+ color:rgb(36, 58, 255);
+
+}
+.head3{
+  color:#F1C40F
+
+}
+.head4{
+   color:greenyellow;
+
+}
+.heading{
+    background-color: rgb(255, 36, 233);
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    
 }
